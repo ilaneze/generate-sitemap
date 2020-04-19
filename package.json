@@ -1,0 +1,13 @@
+{
+  "name": "generate-sitemap",
+  "version": "1.0.0",
+  "description": "simple node cli tool to generate sitemap",
+  "main": "index.js",
+  "repository": "https://github.com/ilaneze/generate-sitemap",
+  "author": "Ilan Ezersky",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
